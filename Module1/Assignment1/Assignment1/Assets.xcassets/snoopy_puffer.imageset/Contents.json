@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "6ba7e8da63234f0fc9b00a75aab13929_1f3c01fe009c10be1d3e027274acebd8-ezgif.com-webp-to-jpg-converter.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "6ba7e8da63234f0fc9b00a75aab13929_1f3c01fe009c10be1d3e027274acebd82x-ezgif.com-webp-to-jpg-converter.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "6ba7e8da63234f0fc9b00a75aab13929_1f3c01fe009c10be1d3e027274acebd83x-ezgif.com-webp-to-jpg-converter.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
